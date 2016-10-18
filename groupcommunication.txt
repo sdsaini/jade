@@ -1,0 +1,6 @@
+:-Group communication refers to the interaction between members of a small group of individuals. 
+
+:-CDash(Clinical Data Acquisition Standards Harmonization) is an open source, web-based software testing server. 
+CDash aggregates, analyzes and displays the results of software testing processes submitted from clients 
+located around the world. Developers depend on CDash to convey the state of a software system, and to
+continually improve its quality.
